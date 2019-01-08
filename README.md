@@ -1,2 +1,5 @@
 # hello-world
-Place to store ideas and resources 
+hi, ppl 
+
+Michał here, i have started learning c++ and i like it.
+
